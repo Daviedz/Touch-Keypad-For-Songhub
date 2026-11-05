@@ -3,6 +3,8 @@
 Portrait touch-screen keypad for the ESP32-S3 board with the built-in 2.8" SPI display and FocalTech capacitive touch. It shows up on the
 phone as a Bluetooth LE keyboard. No matrix keypad is needed. Built with esp32 core 3.3.7 (28% of the Huge APP partition).
 
+![SongHub touch keypad](images/keypad.jpg)
+
 ## Screen (portrait 240x320)
 ```
  [BT icon]  [ SongHub logo background ]  [battery]
